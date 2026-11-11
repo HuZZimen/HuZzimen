@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hussein | Digital Forensics | Cybersecurity | Information Security
+I'm an IT Forensics and Information Security student at Halmstad University, Sweden, graduating in June 2027.
 
-<!--
-**HuZZimen/HuZzimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm analytical, curious and enjoy solving complex problems, particularly when it comes to understanding how technology works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond the technical side of cybersecurity, I'm also interested in the legal aspects of digital investigations, digital evidence and information security.
+
+---
+
+### Interests
+- Digital Forensics & Incident Response (DFIR)
+- Cyber Threat Intelligence (CTI)
+- Reverse Engineering & Malware Analysis
+- Capture The Flag (CTF) Challenges
+- Network Security & Traffic Analysis
+- Vulnerability Research
+
+### Projects
+I'll be sharing projects from my studies, CTF writeups, and personal cybersecurity projects.
+
+### Technical Skills
+- **Programming:** Python, JavaScript, PHP, SQL
+- **Operating Systems:** Windows, Linux
+- **Security & Forensics:** Wireshark, FTK Imager, Sleuth Kit
+- **Networking:** TCP/IP, Network Analysis, Traffic Monitoring
+
+### Currently
+Completing my bachelor's degree in IT Forensics and Information Security
+Part of my university's CTF development team, creating cybersecurity challenges
+Working on practical cybersecurity projects alongside my studies
